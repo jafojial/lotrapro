@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon May 13 10:04:39 GMT+01:00 2013:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-013e-9d22-6c0b-000000ac73d0 
+on database directory D:\JPRO\Eclipse\LOTRACO\lotraprodb with class loader sun.misc.Launcher$AppClassLoader@1cfd7c 
+Loaded from file:/D:/JPRO/Eclipse/LOTRACO/lotraprodb/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_17-b02
+user.dir=D:\JPRO\Eclipse\LOTRACO
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
